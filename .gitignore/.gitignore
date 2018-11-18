@@ -1,0 +1,10 @@
+# Ignorer les backups emacs :
+*~
+
+# Ignorer le répertoire ''cache'' et "build" :
+/cache
+/build
+
+#ignorer les classes compilées
+/src/**/*.class
+/src/*.class
