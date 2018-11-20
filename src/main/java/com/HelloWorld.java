@@ -1,3 +1,5 @@
+package main.java.com;
+
 class HelloWorld {
 
     public static void main(String[] args) {

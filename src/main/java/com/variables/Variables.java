@@ -1,4 +1,4 @@
-// package com.variables; // pas besoin si on est dans une ligne de commande et déjà dans le dossier concerné
+package main.java.com.variables;
 
 class Variables {
     public static void main(String[] args) {
