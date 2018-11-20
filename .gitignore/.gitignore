@@ -9,6 +9,7 @@
 *.classpath
 *.project
 *.class
+*.settings
 
 #ignorer les classes compilées
 /src/**/*.class
